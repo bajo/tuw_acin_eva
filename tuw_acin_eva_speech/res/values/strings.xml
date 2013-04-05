@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">TU Wien-Eva</string>
+    <string name="edit_message">Enter a command</string>
+    <string name="button_start">Press me for voice commands</string>
+    <string name="title_dictation">Speech commands</string>
+    <string name="button_stop">Send</string>
+    <string name="level">Level</string>
+    <string name="listening">Listening&#8230;</string>
+    <string name="title_activity_display_message">Dictation</string>    
+    <string name="button_startDictation">Dictate</string>
+    <string name="german">Deutsch</string>
+    <string name="english">English</string>
+
+</resources>

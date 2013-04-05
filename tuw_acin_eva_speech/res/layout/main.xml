@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:android1="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent" >
+
+    <LinearLayout
+        android:id="@+id/layout_bottomButtons"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:orientation="horizontal" >
+
+        <org.ros.android.view.RosTextView
+            android:id="@+id/text"
+            android:layout_width="0dip"
+            android:layout_height="wrap_content"
+            android:layout_weight="0.90"
+            android:textSize="30dip" />
+    </LinearLayout>
+
+    <Button
+        android1:id="@+id/button1"
+        android1:layout_width="wrap_content"
+        android1:layout_height="wrap_content"
+        android1:layout_centerHorizontal="true"
+        android1:layout_centerVertical="true"
+        android1:onClick="startDictation"
+        android1:text="@string/button_start" />
+
+    <RadioGroup
+        android1:id="@+id/radioGroup1"
+        android1:layout_width="wrap_content"
+        android1:layout_height="wrap_content"
+        android1:layout_above="@+id/button1"
+        android1:layout_centerHorizontal="true"
+        android1:layout_marginBottom="32dp" >
+
+        <RadioButton
+            android1:id="@+id/radio_english"
+            android1:layout_width="wrap_content"
+            android1:layout_height="wrap_content"
+            android1:checked="false"
+            android1:onClick="onRadioButtonClicked"
+            android1:text="@string/english" />
+
+        <RadioButton
+            android1:id="@+id/radio_german"
+            android1:layout_width="wrap_content"
+            android1:layout_height="wrap_content"
+            android1:onClick="onRadioButtonClicked"
+            android1:checked="true"
+            android1:text="@string/german" />
+    </RadioGroup>
+
+</RelativeLayout>
