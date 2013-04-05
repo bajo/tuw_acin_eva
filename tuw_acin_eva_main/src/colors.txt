@@ -1,0 +1,12 @@
+white%weiss
+blue%blau
+red%rot
+green%gruen
+black%schwarz
+yellow%gelb
+magenta%violett
+pink%rosa
+grey%grau
+brown%braun
+orange%orange
+cyan%cyan

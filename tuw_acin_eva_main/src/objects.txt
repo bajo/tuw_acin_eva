@@ -1,0 +1,4 @@
+banana%Banane
+apple%Apfel
+mug%Tasse
+plane%Flugzeug

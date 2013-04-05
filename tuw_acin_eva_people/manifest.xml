@@ -1,0 +1,25 @@
+<package>
+  <description brief="tuw_acin_eva_people">
+
+     tuw_acin_eva_people
+
+  </description>
+  <author>Markus Bajones</author>
+  <license>BSD</license>
+  <review status="unreviewed" notes=""/>
+  <url>http://ros.org/wiki/tuw_acin_eva_people</url>
+
+  <depend package="rospy"/>
+  <depend package="roscpp"/>
+  <depend package="std_msgs"/>
+  <depend package="tuw_acin_eva_servo"/>
+  <depend package="tuw_acin_eva_msgs"/>
+  <depend package="actionlib_msgs"/>
+  <depend package="actionlib"/>
+  <depend package="cob_people_detection"/>
+  <depend package="cob_people_detection_msgs"/>
+  <depend package="cob_vision_utils"/>
+
+</package>
+
+

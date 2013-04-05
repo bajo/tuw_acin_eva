@@ -1,0 +1,6 @@
+tiny%winzig
+huge%riesig
+small%klein
+big%gross
+long%lang
+short%kurz

@@ -1,0 +1,16 @@
+Eva.%eva.%1
+Suche Menschen.%Find people.%2
+Das ist _NAME_.%This is _NAME_.%3
+Folge _NAME_.%Follow _NAME_.%4
+Suche Sachen auf dem Tisch.%Find objects on the table.%5
+Suche den heissen Kaffee.%Find the hot coffee.%6
+Suche das kalte Bier.%Find the cold beer.%7
+Stop.%stop.%8
+deutsch.%english.%9
+Wie geht es dir?%How are you?%10
+Wo ist das _COLOR_ _OBJECT_?%Where is the _COLOR_ _OBJECT_?%11
+Wo ist der _COLOR_ _OBJECT_?%Where is the _COLOR_ _OBJECT_?%11
+Wo ist die _COLOR_ _OBJECT_?%Where is the _COLOR_ _OBJECT_?%11
+Wie gross ist die _COLOR_ _OBJECT_?%How big is the _COLOR_ _OBJECT_?%12
+Ja.%yes.%13
+Nein.%no.%14

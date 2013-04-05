@@ -1,0 +1,17 @@
+<package>
+  <description brief="tuw_acin_eva_servo">
+
+     tuw_acin_eva_servo
+
+  </description>
+  <author>Markus Bajones</author>
+  <license>BSD</license>
+  <review status="unreviewed" notes=""/>
+  <url>http://ros.org/wiki/tuw_acin_eva_servo</url>
+  <depend package="rospy"/>
+  <depend package="std_msgs"/>
+  <depend package="phidgets"/>
+
+</package>
+
+

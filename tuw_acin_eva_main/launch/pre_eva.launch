@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+
+<launch>
+
+	<include file="$(find openni_launch)/launch/openni.launch"/>
+	<include file="$(find cob_people_detection)/ros/launch/people_detection.launch"/>
+
+	<node name="Phidgets_Servo_Controller" pkg="phidgets" type="advanced_servo" output="screen" />   
+
+</launch>

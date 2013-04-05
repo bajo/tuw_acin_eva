@@ -1,0 +1,5 @@
+#english%german%degree Celsius
+hot%heiss%63-100
+warm%warm%20-38
+cold%kalt%3-19
+freezing%eisig%0-2
